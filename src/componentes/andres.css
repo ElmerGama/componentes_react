@@ -1,0 +1,11 @@
+.andres-container {
+    background-color: #187d85;
+    padding: 20px;
+    text-align: center;
+}
+
+.andres-image {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}

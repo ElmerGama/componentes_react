@@ -1,0 +1,11 @@
+.pepillo-container {
+    background-color: #452bdd;
+    padding: 20px;
+    text-align: center;
+}
+
+.pepillo-image {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}

@@ -1,0 +1,11 @@
+.diego-container {
+    background-color: #997b04;
+    padding: 20px;
+    text-align: center;
+}
+
+.diego-image {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}

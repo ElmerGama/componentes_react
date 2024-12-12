@@ -1,0 +1,11 @@
+.joao-container {
+    background-color: #5c0032;
+    padding: 20px;
+    text-align: center;
+}
+
+.joao-image {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}

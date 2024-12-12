@@ -1,14 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
-import Pepillo from './pepillo';
+import Andres from './componentes/andres';
+import Diego from './componentes/diego';
+import Joao from './componentes/joao';
+import Pepillo from './componentes/pepillo';
+import Ricardo from './componentes/ricado';
 
 function App() {
   return (
     <div className="App-pepillo">
       <h1>
-        Hola mundo
+        Sistemas Tercer Año
       </h1>
       <Pepillo/>
+      <Ricardo/>
+      <Andres/>
+      <Diego/>
+      <Joao/>
     </div>
   );
 }
